@@ -542,6 +542,8 @@ img {
   }
   .page-title {
     margin-top: -1em; 
+    display: inline-block;
+    width: auto;
   }
   .footer {
     margin-bottom: 1em; 
