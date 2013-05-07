@@ -184,6 +184,7 @@ img {
   display: inline; 
   font-size: 3em; 
   text-transform: capitalize;
+  text-shadow: 0 0 5px #ff5; 
 }
 
 .l-gallery {   
@@ -252,7 +253,7 @@ img {
     padding: 0 2.5% 0 0;
     width: 97.5%;
     background-color: transparent;
-  }
+} 
 
   a { color: #fff; text-decoration:none; display: inline-block; padding: .25em; margin: -.25em; } 
   a:visited { color: #ccc;  }
