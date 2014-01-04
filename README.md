@@ -7,13 +7,13 @@ Contains links to DIY webdesign tools and experiments.
 
 ##c-Tiles16 Colorschemer
 
-[This colorscheming test playground](http://atelierbram.github.io/c-tiles16/colorscheming/#7b8a8e), is assembled to have the best colorscheming tools, alongside colorscheme-tiles on one webpage-test-playground, making it convenient to create your own colorscheme, with sixteen variables.
+[This colorscheming test playground](http://atelierbram.github.io/c-tiles16/colorscheming/#7b8a8e), is assembled to have the best colorscheming tools, alongside colorscheme-tiles on **one webpage**-test-playground, making it convenient to create your own colorscheme, with sixteen variables.
 
 ![screenshot of c-Tiles16 colorschemer](https://lh3.googleusercontent.com/-uhokcZnG_8Q/UshwNPVK7OI/AAAAAAAAAx0/bTmK9IxkeNI/s800/ctiles16-colorscheming_400x400.jpg)
 
 Because it’s one thing two have your color variables declared on top of your Sass/Less/Stylus stylesheet. It’s another thing to find the time to use them in an intuitive and meaningfull way in your designs.
 
-Put the colorscheme you just made as one of the first partial files to import in the _base-partial file (the one that is included throughout the whole project), and keep using the colorschemer any time you like to generate color-values during the design phase of the website.
+Put the colorscheme you just made as one of the first partial files to import in the `_base-partial` file (the one that is included throughout the whole project), and keep using the colorschemer any time you like to generate color-values during the design phase of the website.
 
 ##Syntax Highlighting: Atelier Schemes
 
