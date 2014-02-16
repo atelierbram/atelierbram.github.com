@@ -108,7 +108,7 @@ h1,h2,h3,h4,h5,h6,p,pre,ol,ul /*,img */ {
   -moz-box-shadow: rgba(0, 0, 0, .35) 6px 12px 24px 9px;
   -o-box-shadow: rgba(0, 0, 0, .35) 6px 12px 24px 9px;
   box-shadow: rgba(0, 0, 0, .35) 6px 12px 24px 9px;
-  background-color: #444;
+  background-color: #3c3c3c;
 }
 .group {
   float: left;
@@ -188,7 +188,7 @@ img {
 
 .l-gallery {
   padding-top: .25em;
-  background-color: #444;
+  background-color: #3c3c3c;
   color: #eee;
   overflow: hidden;
   clear: both;
@@ -240,7 +240,7 @@ img {
     font-weight: normal;
     z-index: 2;
     font-size: 2em;
-    background-color: #444;
+    background-color: #3c3c3c;
     text-indent: 2.5%;
   }  /* 26 / 14 */
 
@@ -335,7 +335,7 @@ img {
  .fig-l-gallery {
     padding: 1em 2%;
     width: 100%;
-    background-color: #444;
+    background-color: #3c3c3c;
   }
   .a-img-gallery {
     display: block;
