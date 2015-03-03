@@ -1,6 +1,7 @@
 @font-face { font-family: 'SonrisaThin';
   src: url('type/sonrisa-thin-trial-webfont.eot');
   src: url('type/sonrisa-thin-trial-webfont.eot?#iefix') format('embedded-opentype'),
+  url('type/sonrisa-thin-trial-webfont.woff2') format('woff2'),
   url('type/sonrisa-thin-trial-webfont.woff') format('woff'),
   url('type/sonrisa-thin-trial-webfont.ttf') format('truetype'),
   url('type/sonrisa-thin-trial-webfont.svg#SonrisaThin') format('svg');
