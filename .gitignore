@@ -1,2 +1,8 @@
 .DS_Store
 _
+
+test*
+test.html
+test.css
+test.scss
+config.rb
