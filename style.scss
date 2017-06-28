@@ -120,6 +120,10 @@
 
 }
 
+.no-flexbox .is-text-shown .module_inner {
+  min-height: 0;
+}
+
 .module_media {
   position: relative;
 
