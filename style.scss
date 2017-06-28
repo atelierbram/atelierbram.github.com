@@ -86,10 +86,8 @@
 }
 
 .no-flexbox .module_inner {
-  background-color: transparent;
 
   @media (min-width: 654px) and (max-width: 975px) {
-    background-color: hsl(202, 64%, 96%);
     text-align: left;
   }
 }
