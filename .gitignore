@@ -10,3 +10,4 @@ config.rb
 archive/*
 js/
 js/show-hide-paragraphs*.js
+node_modules
