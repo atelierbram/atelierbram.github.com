@@ -1,0 +1,23 @@
+{
+  "name": "atelierbram.github.com",
+  "version": "1.0.0",
+  "description": "webdesign playground of Atelierbram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --watch sass -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atelierbram/atelierbram.github.com.git"
+  },
+  "author": "Bram de Haan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atelierbram/atelierbram.github.com/issues"
+  },
+  "homepage": "https://github.com/atelierbram/atelierbram.github.com#readme",
+  "dependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
