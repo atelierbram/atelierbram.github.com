@@ -4,7 +4,7 @@
   "description": "webdesign playground of Atelierbram",
   "main": "index.js",
   "dependencies": {
-    "node-sass": "^4.9.0"
+    "node-sass": "^4.11.0"
   },
   "scripts": {
     "sass": "node-sass --watch sass -o css --source-map-contents --output-style compressed",
