@@ -541,14 +541,14 @@ a {
 
     .is-loaded & {
       // background-image: url(../img/svg/header-logo_313x60.svg);
-      background-image: url(../img/svg/header-logo_313x60.svg),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='660' height='144' viewBox='0 0 660 144'%3E%3Cpolygon points='660 0 280 0 190 144 660 144' fill='%23a0abba'/%3E%3C/svg%3E");
+      background-image: url(../img/svg/header-logo-v2_313x60.svg),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='660' height='144' viewBox='0 0 660 144'%3E%3Cpolygon points='660 0 280 0 190 144 660 144' fill='%23a0abba'/%3E%3C/svg%3E");
       // background-repeat: no-repeat, repeat;
       background-repeat: no-repeat;
       // background-position: left center, 0 0;
       background-position: center bottom, 0 0;
 
       @media (min-width: 654px) {
-        background-image: url(../img/svg/header-logo_313x60.svg),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='999999' height='96' viewBox='0 0 999999 96'%3E%3Cpolygon points='999999 0 230 0 175 96 999999 96' fill='%23a0abba'/%3E%3C/svg%3E");
+        background-image: url(../img/svg/header-logo-v2_313x60.svg),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='999999' height='96' viewBox='0 0 999999 96'%3E%3Cpolygon points='999999 0 230 0 175 96 999999 96' fill='%23a0abba'/%3E%3C/svg%3E");
         background-position: 1em center, 0 0;
       }
     }
