@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/atelierbram/atelierbram.github.com#readme",
   "devDependencies": {
-    "node-sass": "*"
+    "node-sass": "^4.13.1"
   }
 }
