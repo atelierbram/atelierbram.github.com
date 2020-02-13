@@ -121,14 +121,12 @@
 }
 
 .is-text-shown .module_inner {
-  min-height: 36em;
-  max-height: 36em;
-
-  @media (min-width: 654px) and (max-width: 975px) {
-    min-height: initial;
-    max-height: initial;
-  }
-
+  min-height: auto;
+  // max-height: 36em;
+  // @media (min-width: 654px) and (max-width: 975px) {
+  //   min-height: initial;
+  //   max-height: initial;
+  // }
 }
 
 .no-flexbox .is-text-shown .module_inner {
