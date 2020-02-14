@@ -87,6 +87,7 @@
   position: relative;
   overflow: hidden;
   transition: .5s all;
+  box-shadow: 4px 4px 24px rgba($o0,.75);
 
   @media (min-width: 654px) and (max-width: 975px) {
     flex-direction: row;
