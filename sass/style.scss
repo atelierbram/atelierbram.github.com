@@ -668,3 +668,20 @@ main {
     font-variant-caps: small-caps;
   }
 }
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 2px rgba($o0,0.25);
+  background-color: $o3;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: $o2;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 3px;
+  box-shadow: inset 0 0 2px rgba($o0,.25);
+  background-color: $o5;
+}
+
