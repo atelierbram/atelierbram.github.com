@@ -575,7 +575,7 @@ a {
   background-color: $O18;
 
   .is-loaded & {
-    background-image: url(../img/svg/header-logo-v2_313x60.svg),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='999999' height='96' viewBox='0 0 999999 96'%3E%3Cpolygon points='999999 0 230 0 175 96 999999 96' fill='%237d8ba1'/%3E%3C/svg%3E");
+    background-image: url(../img/svg/header-logo-v2_313x60.svg),url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg?v2' width='999999' height='96' viewBox='0 0 999999 96'%3E%3Cpolygon points='999999 0 230 0 175 96 999999 96' fill='%237d8ba1'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: 1rem center, 0 center;
 
@@ -623,9 +623,9 @@ main {
 .page-footer .colophon li:after {
   content: "\B7";
   // color: hsl(55, 100%, 60%);
-  color: $D21;
+  color: $O21;
   // text-shadow: 1px 1px 0 hsla(202, 64%, 10%, .6);
-  text-shadow: 1px 1px 0 rgba($o2, .6);
+  // text-shadow: 1px 1px 0 rgba($o2, .6);
 }
 
 .page-footer .colophon li:last-of-type:after {
@@ -636,18 +636,19 @@ main {
   padding: .25em;
   text-decoration: none;
   // color: hsl(55, 100%, 85%);
-  color: $D22;
-  letter-spacing: .5px;
+  color: $O22;
+  letter-spacing: .06em;
   // text-shadow: 1px 1px 0 hsla(202, 64%, 10%, .6);
   text-shadow: 1px 1px 0 rgba($o2, .6);
   // box-shadow: inset 0 -3px 0 hsla(55, 100%, 43%, 0);
-  box-shadow: inset 0 -3px 0 rgba($D20, 0);
+  // box-shadow: inset 0 -3px 0 rgba($D20, 0);
 
   &:hover {
     // color: hsl(55, 100%, 53%);
-    color: $D23;
+    color: $O23;
+    text-decoration: underline;
     // box-shadow: inset 0 -3px 0 hsl(55, 100%, 43%);
-    box-shadow: inset 0 -3px 0 $D20;
+    // box-shadow: inset 0 -3px 0 $D20;
   }
 
 }
