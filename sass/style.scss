@@ -252,8 +252,10 @@
 
 .module,
 .module_inner {
-  border-top-right-radius: 2rem 2.25rem;
-  border-top-left-radius:  2rem 2.25rem;
+  // border-top-right-radius: 2rem 2.25rem;
+  // border-top-left-radius:  2rem 2.25rem;
+  border-top-left-radius: 1.5em 1.125em;
+  border-top-right-radius: 1.5em 1.125em;
 
   @media (min-width: 654px) and (max-width: 975px) {
     border-top-right-radius: 1em 1.125em;
